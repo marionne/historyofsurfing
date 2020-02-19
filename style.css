@@ -1,0 +1,13 @@
+body {
+  background-image: url("https://www.surfertoday.com/images/stories/surfetiquette.jpg");
+  background-size: cover;
+  /* Full height */
+  height: 100%;
+  width: 100%;
+  background-repeat: no-repeat;
+}
+
+h1 {
+  text-align: center;
+  color: deeppink;
+}
